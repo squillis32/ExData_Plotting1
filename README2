@@ -1,0 +1,30 @@
+Exploratory Data Analysis Course Project 1
+===================================================================================
+This repository is for the Coursera "Exploratory Data Analysis" course project #1.
+
+The goal is to simply examine how household energy usage varies over a 2-day period in February, 2007.
+
+The data for this project can be downloaded through the following link:
+https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
+
+A full description is available at the site where the data was obtained:
+https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption#
+
+=========================================================================================
+
+You should create four R scripts called plot1.R, plot2.R, plot3.R and plot4.R that does the following.
+
+1- Construct the plot and save it ot a PNG file with a width of 480 pixels and a height of 480 pixels.
+
+2- Name each of the plot files as plt1.png, plot2.png, etc.
+
+3- Create a separate R code file (plot1.R, plot2.R, etc.) that constructs the corresponding plot, i.e.
+   code in plot1. R constructs the plot1.png plot. Your code file should include code for reading the data
+   so that the plot can be fully reproduced. You must also include the code that creates the PNG file.
+
+=============================================================================================
+
+Files
+Codebook.md describes the varibles, the data, and any work performed to clean up the data.
+plot1.R, plot2.R, plot3.R and plot4.R contains the R scripts that performs the analysis on the raw data.
+plot1.png, plot2.png, plot3.png and plot4.png are the end results from running the conde on the four R scripts.
